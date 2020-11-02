@@ -1,4 +1,4 @@
-# Deep Learnin' in the Mornin'
+# Deep Learnin' on a Week Day
 
 This morning we will build a basic Deep Learning Model, often referred to as a "Multi Layer Perceptron". 
 
